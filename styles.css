@@ -1,0 +1,28 @@
+body{
+  margin-top: 2%;
+  background-color: #FAF1E6;
+}
+
+.myStyle{
+  background-color: #628395;
+  border: none;
+}
+
+.mainOne{
+  padding-top: 2%;
+  
+
+}
+
+#header-title{
+  color: #01937C;
+}
+
+.addMeal{
+
+  color: #01937C;
+}
+
+li{
+  margin-bottom: 1rem;
+}
